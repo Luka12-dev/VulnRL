@@ -56,7 +56,7 @@ pip install pyqt6 torch matplotlib numpy
 Run the application using Python 3.9 or later:
 
 bash
-Копирај кȏд
+
 python vulnrl_trainer.py
 Running
 On first launch, a Consent Dialog will appear requiring you to type I AGREE to proceed.
